@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/shelter/static/css/main.31d6cfe0.css",
+    "main.js": "/shelter/static/js/main.4e574a08.js",
+    "static/js/679.e3ed256e.chunk.js": "/shelter/static/js/679.e3ed256e.chunk.js",
+    "static/js/787.46b0efa5.chunk.js": "/shelter/static/js/787.46b0efa5.chunk.js",
+    "static/media/start-screen-puppy.png": "/shelter/static/media/start-screen-puppy.e9a128c9b41515595906.png",
+    "static/media/arialmt.ttf": "/shelter/static/media/arialmt.426f0efdd95731aa5930.ttf",
+    "static/media/about-pets.png": "/shelter/static/media/about-pets.ec40aeb47d19d354e619.png",
+    "static/media/donation-dog.png": "/shelter/static/media/donation-dog.46b1b018f609ab0395a1.png",
+    "static/media/georgia.ttf": "/shelter/static/media/georgia.7eb0e3cec9d41a50efd7.ttf",
+    "static/media/footer-puppy.png": "/shelter/static/media/footer-puppy.c15eacb8d1e9a2395f20.png",
+    "static/media/pets-charly.png": "/shelter/static/media/pets-charly.03ecb1e6cbabb2088acf.png",
+    "static/media/2.png": "/shelter/static/media/2.79626250bb5504aa6655.png",
+    "static/media/pets-woody.png": "/shelter/static/media/pets-woody.53949a4131c76768cf4d.png",
+    "static/media/pets-timmy.png": "/shelter/static/media/pets-timmy.e42f5e7ca386e3d86023.png",
+    "static/media/pets-jennifer.png": "/shelter/static/media/pets-jennifer.73fa9e2e868dc39d842f.png",
+    "static/media/pets-katrine3.png": "/shelter/static/media/pets-katrine3.974574210c5bfb8b71c9.png",
+    "static/media/pets-katrine.png": "/shelter/static/media/pets-katrine.784e4ced9a737c16cd58.png",
+    "static/media/pets-scarlet.png": "/shelter/static/media/pets-scarlet.594e94f70d675f2219cf.png",
+    "index.html": "/shelter/index.html",
+    "main.4e574a08.js.map": "/shelter/static/js/main.4e574a08.js.map",
+    "679.e3ed256e.chunk.js.map": "/shelter/static/js/679.e3ed256e.chunk.js.map",
+    "787.46b0efa5.chunk.js.map": "/shelter/static/js/787.46b0efa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4e574a08.js"
+  ]
+}
