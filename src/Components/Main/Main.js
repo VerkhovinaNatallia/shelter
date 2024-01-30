@@ -15,7 +15,7 @@ const Main = ()=>{
         <main>
             <StartScreen/>
             <About/>
-            {/* <Pets/> */}
+            <Pets/>
             <Help/>
             <Donation/>
         </main>
